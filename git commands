@@ -1,0 +1,18 @@
+git diff
+git commit -a -m "commit message"
+git status
+git add file_path
+git checkout -b branch_name
+git checkout branch_name
+git commit --amend  OR git commit --amend --no-edit
+git push origin branch_name
+git pull
+git rebase -i
+git clone
+git merge
+git log --stat
+git stash
+git stash apply
+git stash pop
+git show commit_id
+git reset HEAD~1
