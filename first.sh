@@ -1,4 +1,6 @@
+
 echo "Hello world"
 pwd
 ls
-sleep 1
+sleep 30
+# hello

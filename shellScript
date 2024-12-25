@@ -1,0 +1,5 @@
+System Variable
+To print the process id = ${$}
+To print the parent process id = ${PPID}
+To print the user id = $UID
+'read' is used to take the input from the user

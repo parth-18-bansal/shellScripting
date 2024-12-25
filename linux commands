@@ -1,0 +1,7 @@
+ps -ef
+chmod +x filename
+which python3
+cat filename
+pwd
+echo
+env :- it give the list of all the system defined variable
