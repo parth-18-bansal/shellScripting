@@ -3,3 +3,10 @@ To print the process id = ${$}
 To print the parent process id = ${PPID}
 To print the user id = $UID
 'read' is used to take the input from the user
+
+
+##
+shellscript for : if you have to do the entry on the /etc/hosts then, you can check whether that entry is in the folder or not before doing it.
+shell script for: if you are working in docker and if there is service in the docker swarm then if there is service already in the docker swarm then you only have to update the image of the service other wise create the service.
+shellscript for: before installing the software, check wheather that software is install or not
+shellscript for: check that shellscript always run with the root user. 
