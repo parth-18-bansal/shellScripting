@@ -1,0 +1,6 @@
+# installation commands
+sudo apt-get update
+sudo apt-get install git
+
+# Memory related commands
+1) Get the information about the all the volumes = lsblk
