@@ -1,0 +1,7 @@
+To check that whether a particular path exists or not: os.path.exists(directory)
+To create a folder: os.makedirs(directory)
+To run the shell commands: subprocess.check_output(["df", "/"]).decode("utf-8")
+
+# memory related
+To get the disk usage: shutil.disk_usage("/")
+

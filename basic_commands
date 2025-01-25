@@ -1,0 +1,14 @@
+1) To check whether a given path is directory or not = -d directory_name
+2) To create the directory with parents directory also = mkdir -p directory_path
+3) chmod
+4) go to the root: cd /  and go to the home cd
+
+
+# Text Processing
+1) grep: If you need to find lines containing a specific word or pattern.
+2) awk: If you need to process structured data like table or extract/manipulate specific fields
+3) sed: If you need to perform search-and-replace or basic editing of text.
+
+# memory related
+1) lsblk(list the block devices) : to get the infromation about all disks
+2) df(disk free): it give the usage inf about the particular disk. e.g df / : give the usage inf about root disk

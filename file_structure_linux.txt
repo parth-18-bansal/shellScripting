@@ -1,0 +1,16 @@
+Linux file structure
+
+root_folder(cd /)---->
+
+bin: it contains binary
+sbin: it contains system binaries that are only executable by the root user.
+lib: it mainly contains shared libraries i.e common codes that used by multiple apps
+usr: it contains bin,sbin etc subfolder that contains non essentials binaries, that are for users not for operating system.
+etc(editable text config): it contains config file by which we can edit configuration of softwares
+home: that contain users of ubuntu
+boot: it contains files for boot the system
+dev: it contains device files. here we can interface with hardware or drivers.
+opt: it contains optional or add on softwares files
+var: it contains variables, logs, cache, etc
+temp: for the temporary files
+proc; it is not exist but it is created by kernel to keep the track of the process.
